@@ -45,7 +45,7 @@ A aplicação já estava totalmente funcional mas grande parte do seu código es
 ## :sparkles: Funcionalidades
 
 :heavy_check_mark: Listar os filmes por gênero;\
-:heavy_check_mark: Mostrar na tela a capa dos filmes listados, conforme o gênero;\
+:heavy_check_mark: Mostrar na tela a capa dos filmes listados, conforme o gênero;
 
 ## :rocket: Tecnologias
 
